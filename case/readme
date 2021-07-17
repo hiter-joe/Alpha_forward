@@ -1,9 +1,11 @@
 # This example case is for Alpha_forward paper.
 
-# In this folder, you can find the mesh/BC/IC for simulation.
-# To simulate different cases, the user need to change the flow conditions in 0 folder.
-# This case solves scalar transport in both the surface and subsurface domains. And 
-the dynamic coupling at SWI is fully considered.
+# In this folder, you can find the setup of simulation, like BC/IC.
+# Before run the simulation, the user need to run blockmesh to generate the mesh files.
+
+# Here, we added one example case, to simulate different cases, the user need to change the flow conditions in 0 folder or change the parameters in blockmesh file.
+
+# This case solves scalar transport in both the surface and subsurface domains. And the dynamic coupling at SWI is fully considered.
 
 Bing
 20210715
