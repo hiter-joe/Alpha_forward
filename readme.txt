@@ -1,12 +1,12 @@
-# This repository is for the study of Alpha.
+# This repository is for the study of the physical meaning of the Alpha in TSM.
 
 
-# In OTIS_cases_and_data folder, the user can find the cases used for the OTIS. The folder contains 12 cases. 
+# In OTIS_cases, the user can find the cases used for the OTIS. The folder contains 12 cases. 
 ## To run the simulation, the user need to set up the parameters in q.inp / params.inp / control.inp.  
 ## Then run ./OTIS in linux system. 
 
 
-# In case folder, the user can find an example case for numerical simulation used for hyporheicFoam.
+# In hyporheicFoam_cases folder, the user can find an 12 cases for numerical simulation used for hyporheicFoam.
 
 # For more information, please send message to bul201@psu.edu
 # Created by Bing Li.
